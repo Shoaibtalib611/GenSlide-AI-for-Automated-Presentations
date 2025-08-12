@@ -39,7 +39,7 @@ async function generateSlides() {
   const prompt = `Generate content for a PowerPoint presentation on the topic: '${topic}'. Create ${slideCount} slides. For each slide, provide a title and bullet points. Layout: ${layout}. Return as a JSON array: [{title: string, bullets: string[]}]`;
 
   try {
-    const apiKey = "AIzaSyB-pQRhd4s4wPyiCpBuH3zTpDAVjZOcEJM";
+    const apiKey = "Replace it with your original API key";
     const response = await fetch(
       `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`,
       {
