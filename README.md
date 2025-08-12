@@ -1,2 +1,2 @@
-# GenSlide-AI-for-Automated-Presentations
-GenSlide is an AI-powered PowerPoint add-in that generates professional presentations from text prompts using Google’s Gemini API. It automates slide creation with relevant content and formating, enabling real-time customization for faster, smarter, and more engaging presentations.
+# GenSlide: AI for Automated Presentations:
+GenSlide is an AI-powered Microsoft PowerPoint add-in designed to automatically generate professional presentations from user input. Using Google’s Gemini API, it creates well-structured slides with relevant text, images, and formatting in seconds. The tool enables users to interact through a chatbot interface, allowing customization and refinement of slides in real time. By automating slide creation, GenSlide saves time, enhances productivity, and ensures visually engaging presentations for academic, corporate, and creative use cases.
